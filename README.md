@@ -12,6 +12,8 @@
     * CV2 = https://docs.opencv.org/4.2.0/d6/d00/tutorial_py_root.html
 
 ## Minha Base:
+     * https://github.com/josenalde/datascience
+     
      * https://github.com/lauraemmanuella/IntroducaoPython
      * https://github.com/lauraemmanuella/DataScience
      * https://github.com/lauraemmanuella/AprendizadoMaquina
