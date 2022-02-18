@@ -1,6 +1,55 @@
 # Repositorio - Ciência de Dados
-    * É aqui onde irei armazenar todas as analises de dados que já realizei;
-    * Pretendo futuramente me dedicar com operações e projetos de Webscraping
+      * Conceitos primordiais:
+            - O que é ciência de dados:
+               # Área que estuda os dados e todo o seu ciclo de vida;
+               # Dados sempre vem acompanhados pelos conceitos de segurança e privacidade;
+               # Geralmente esses dados são governados pelas políticas e procedimentos da instituição;
+
+            - Estrutura básica:
+               # Dados         -> Fatos bruto coletados
+               # Informação	-> Dados analisados com algum significado
+               # Conhecimento	-> Informação interpretada e aplicada;
+
+            - Passos Fundamentais em um Projetos:
+               # Aquisição / Produção / Coleta dos dados:
+                  1. Sensores	 	 -> Automaticos
+                  2. Formularios / Questões -> Manuais
+                  3. Extração(Requisição) de bancos / WebSites já desenvolvidos;
+
+               # Armazenar os dados;
+                  1. Banco de dados;
+                  2. Softwares (Excel);
+
+               # Processamento / Transformação:
+                  1. Seleção dos dados essenciais para o objetivo;
+                  2. Filtragem dos dados (Remoção de lixo e outliers);
+
+               # Análise / visualização / Descrição:
+                  1. A partir das métricas alcançadas pelos métodos de apredizgem de maquina avaliar a aplicação (caracteristicas superfiais);
+                  2. Esses resultados podem ser considerados uma informação -> Podendo ser usados para tomada de decisão;
+
+               # Descarte:
+                  1. A definição de quanto tempo esse dado será util e consequentemente mantido pelo sistema;
+
+         * BI & BA
+            - BI (Business Intelligence)
+               # Tarefa Descritiva -> Entender o que aconteceu;
+               # Extração de informação, Geração de gráfios -> Construir benefícios;
+            - BA (Business Analytics)
+               # Tarefa Preditiva -> Analisar o que pode ocorrer;
+               # Coleta de historicos, uso de métodos estatísticos -> Descobrir as próximas tendências;
+
+         * Big Data
+            - "Ecossitemas de tecnologias para o processamento de uma massiva e variada fonte de dados";
+            - Caracteristicas do ambiente de processamento:
+               # Paralelo;
+               # Distribuido;
+            - Atributos:
+               # Valor -> Utilidade para aplicação dos dados selecionados;
+               # Volume -> Quantidade de dados;
+               # Variedade -> Diferentes tipos de dados;
+               # Velocidade -> Geração/coleta dos dados;
+               # Veracidade -> A confiabilidade e precisão dos dados;
 
 ## Fontes:
     * numpy = https://numpy.org/doc/stable/user/whatisnumpy.html
