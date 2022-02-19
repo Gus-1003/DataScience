@@ -63,9 +63,7 @@
 ## Minha Base:
      * https://github.com/josenalde/datascience
      
-     * https://github.com/lauraemmanuella/IntroducaoPython
      * https://github.com/lauraemmanuella/DataScience
-     * https://github.com/lauraemmanuella/AprendizadoMaquina
      
      * https://github.com/programacaodinamica/analise-dados
      * https://github.com/programacaodinamica/dicas-pandas
