@@ -50,8 +50,14 @@
                # Variedade -> Diferentes tipos de dados;
                # Velocidade -> Geração/coleta dos dados;
                # Veracidade -> A confiabilidade e precisão dos dados;
+               
+## Bases de Dados:
+    * Kaggle = https://www.kaggle.com/datasets
+    * OpenML = https://www.openml.org/home
+    * UCI = https://archive.ics.uci.edu/ml/index.php
+    * Open Image = https://archive.ics.uci.edu/ml/index.php
 
-## Fontes:
+## Documentações:
     * numpy = https://numpy.org/doc/stable/user/whatisnumpy.html
     * pandas = https://pandas.pydata.org/docs/getting_started/overview.html
     * Matplotlib = https://matplotlib.org/stable/tutorials/index
@@ -60,7 +66,7 @@
     * scipy = https://scipy.github.io/devdocs/tutorial/general.html
     * CV2 = https://docs.opencv.org/4.2.0/d6/d00/tutorial_py_root.html
 
-## Minha Base:
+## Referências para estudo:
      * https://github.com/josenalde/datascience
      
      * https://github.com/lauraemmanuella/DataScience
