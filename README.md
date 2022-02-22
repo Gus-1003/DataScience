@@ -58,7 +58,7 @@
     * Open Image = https://archive.ics.uci.edu/ml/index.php
     * Plataforma Sucupira = https://sucupira.capes.gov.br/sucupira/public/index.xhtml
 
-## Documentações:
+## Documentações de Bibliotecas e Ferramentas do Python:
     * numpy = https://numpy.org/doc/stable/user/whatisnumpy.html
     * pandas = https://pandas.pydata.org/docs/getting_started/overview.html
     * Matplotlib = https://matplotlib.org/stable/tutorials/index
