@@ -6,13 +6,13 @@
                # Geralmente esses dados são governados pelas políticas e procedimentos da instituição;
 
             - Estrutura básica:
-               # Dados         -> Fatos bruto coletados
-               # Informação	-> Dados analisados com algum significado
-               # Conhecimento	-> Informação interpretada e aplicada;
+               # Dados -> Fatos bruto coletados
+               # Informação -> Dados analisados com algum significado
+               # Conhecimento -> Informação interpretada e aplicada;
 
             - Passos Fundamentais em um Projetos:
                # Aquisição / Produção / Coleta dos dados:
-                  1. Sensores	 	 -> Automaticos
+                  1. Sensores -> Automaticos
                   2. Formularios / Questões -> Manuais
                   3. Extração(Requisição) de bancos / WebSites já desenvolvidos;
 
@@ -56,6 +56,7 @@
     * OpenML = https://www.openml.org/home
     * UCI = https://archive.ics.uci.edu/ml/index.php
     * Open Image = https://archive.ics.uci.edu/ml/index.php
+    * Plataforma Sucupira = https://sucupira.capes.gov.br/sucupira/public/index.xhtml
 
 ## Documentações:
     * numpy = https://numpy.org/doc/stable/user/whatisnumpy.html
