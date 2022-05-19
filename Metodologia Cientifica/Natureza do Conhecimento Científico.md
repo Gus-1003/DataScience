@@ -33,3 +33,36 @@
         + A própria realidade apresenta níveis e estruturas diferentes em sua própria constituição;
         + Então a partir de um conhecimento, fato ou fenômento isolado, pode-se subir e situá-lo dentro de um contexto mais complexo.
             * Entender sua função, sua natureza, sua origem, sua finalidade, sua subordinação a outros entes, enfim, todas as suas implicaçes;
+            
+        + Esta complexidade do real, objeto de conhecimento, ditará, necessariamente, formas diferentes de apropriação por parte do sujeito cognoscente.
+            * As formas darão diversos níveis de conhecimento segundo:
+                 _ Grau de penetração;
+                 _ Área aplicada;
+                 _ Estrutura considerada;
+                 
+        + Quatra níveis diferentes de conhecimento:
+             * Empírico
+             * Científico
+             * Filosófico
+             * Teológico
+   
+### Conhecimento Empírico (Vulgar):
+    - É ametódico e assistemático;
+    - Conhecimento baseado na experiência de vida e no diálogo com outras pessoas;
+    - Entendimento gerado por experiências feitas ao acoso e sem método;
+        
+### Conhecimento Cientifico:
+    - É metódico e sistemático;
+    - Por meio dele, além do fenômeno, conhecem-se suas causas e leis que o regem;
+    
+    - "Conhecer verdadeiramente, é conhecer pelas cuasas." - Francis Bacon
+    - "Conhecemos uma coisa de maneira absoluta, quando sabemos qual é a causa que a produz e o motivo porque não pode ser de outro modo." - Aristóteles
+    
+    - Pode-se dizer que a ciẽncia é:
+            
+            "Um sistema de proposições rigorosamente demonstradas, constantes, gerais, ligadas entre si pelas relações de subordinação
+            relativas a seres, fatos e fenômenos da experiência."
+            
+            "A ciência é um conhecimento apoiado na demonstração e na experimentação."
+                
+        
