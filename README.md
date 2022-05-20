@@ -70,3 +70,8 @@
      * https://github.com/programacaodinamica/analise-dados
      * https://github.com/programacaodinamica/dicas-pandas
 
+## Livros / Apostilas Base:
+     * Notas de Aulas - https://drive.google.com/file/d/1YfSi-_2ESn3OfpLF1BPdMsFh-nAganr6/view?usp=sharing
+     * Apostila Estatística - UFSM - https://drive.google.com/file/d/1KvmFeuG2QM_E4gF_Qj1kuoin1hPXIZT_/view?usp=sharing
+     * Livro: Metodologia Científica - "A.L. Cervo" e "P.A. Bervian"
+     
