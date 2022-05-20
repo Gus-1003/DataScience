@@ -6,6 +6,9 @@
     Federal do Rio Grande do Norte (UFRN);
     2 - O meu interesse por conteúdos vinculados a área de astronomia;
     
+## Fonte dos Dados:
+    - https://www.kaggle.com/datasets/deepcontractor/mars-rover-environmental-monitoring-station
+
 ## Contexto:
     1 - A Estação de Monitoramento Ambiental Rover (REMS) é uma estação meteorológica em Marte para o rover Curiosity, 
     fornecida pela Espanha e pela Finlândia. 
