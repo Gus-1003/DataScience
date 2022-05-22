@@ -1,4 +1,4 @@
-# O Conhecimento Cientifico:
+# O Conhecimento Cientifico - Parte 1:
 
 ## O princípio:
     - Nível 1 : Possuir curiosidade;
@@ -64,5 +64,31 @@
             relativas a seres, fatos e fenômenos da experiência."
             
             "A ciência é um conhecimento apoiado na demonstração e na experimentação."
+            
+    - Os objetos da ciência são:
+        + Dados próximos;
+        + Imediatos;
+        + Perceptíveis (Por meio naturais ou tecnológicos);
+        + Susceptíveis de experimentação;
+            
+### Conhecimento Filósofico:
+    - Possuem características similares ao do conhecimento cientifico, porém o objeto de estudo e os métodos aplicados mudam;
+    - Os objetos da ciência são: 
+        + Não perceptíveis pelos sentidos (Suprassensíveis);
+        + Não possuem a obrigação de serem lógicos e racionais;
+        
+    - Processo de pesquisa:
+        + Dados materiais (Ciência) => Dados de ordem não sensíveis;
+        + Do particular => O universal
+    
+    - Filosofar : Interrogar, contínuo questionar a si e a realidade. Não é algo feito, acabado.
+    - Filosofia : Procura do saber e não em sua posse.
+        + A filosofia se degenera quando é posta em fórmulas;
+        
+### Conhecimento Teologico / Teologia Dogmática:
+    - Conjunto de verdades adquiridas mediante a aceitação dos dados da reveleção divida, da fé.
+    - Vale-se, de modo especial, do "argumento de autoridade".
+    - São conhecimentos passados por povos através de contos e textos  e aceitos racionalmente pelos homens;
+        + Revestindo-se de autenticidade quando a narrativa é acompanhada por sinais que foram comprovados;
                 
         
