@@ -52,6 +52,7 @@
     * UCI = https://archive.ics.uci.edu/ml/index.php
     * Open Image = https://archive.ics.uci.edu/ml/index.php
     * Plataforma Sucupira = https://sucupira.capes.gov.br/sucupira/public/index.xhtml
+    * Outras fontes = https://www.aquare.la/datasets-o-que-sao-e-como-utiliza-los/
 
 ## Documentações de Bibliotecas e Ferramentas do Python:
     * numpy = https://numpy.org/doc/stable/user/whatisnumpy.html
