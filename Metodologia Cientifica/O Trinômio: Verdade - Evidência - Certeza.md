@@ -40,5 +40,35 @@
      em outro estado de esperito, o que deve transparecer em suas expressões ou na linguagem.
      São os casos dda ignorância, da dúvida e da opinião."
  
-          
+ ## Casos indesejáveis: 
+ 
+ 
+ ### Ignorância:
+    "Estado puramente negativo. O estado de ignorância ocorre na ausência de todo conhecimento
+    relativo a qualquer objeto por falta total de desvelamento."
+    - Tipos de ignorância:
     
+        + Vencível: Quando pode ser superada;
+        + Invencível: Quando não pode ser superada;
+        
+        + Culpável: Quando existe uma obrigação de fazê-la desaparecer.
+        + Desculpável: Quando não há obrigação de fazê-la desaparecer.
+        
+ ### Dúvida:
+    "Estado de equilibrio entre a afirmação e a negação."
+    "Ação epontânea produzida por falta de certeza."
+     - Tipos:
+        + Dúvida Refletida: Estado que permanece mesmo após experimentações;
+        
+        + Dúvida Metódica: Consiste na suspensão fictícia ou real, mas sempre provisória, 
+            de uma afirmação que antes era tomada como certa, para lhe controlar o valor.
+            
+        + Dúvida Universal: Consiste em considerar toda asserção como incerta. É a dúvida dos céticos.
+        
+ ### Opinião:
+    "Estado de espírito que afirma com temor de se enganar."
+    "O valor da opinião depende da maior ou menor probabilidade das razões que fundamentam a afirmação."
+        + Numerador : Número de casos favoraveis;
+        + Denominador: Número de casos possiveis;
+        
+        + Certeza: Quando a razão das duas variáveis anteriores for igual a 1; => Meta dos cientistas;
