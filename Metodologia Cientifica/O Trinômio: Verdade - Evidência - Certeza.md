@@ -38,7 +38,7 @@
      
     "Quando não houver evidência ou suficiente manifestação do objeto, o sujeito se encontrará 
      em outro estado de esperito, o que deve transparecer em suas expressões ou na linguagem.
-     São os casos dda ignorância, da dúvida e da opinião."
+     São os casos da ignorância, da dúvida e da opinião."
  
  ## Casos indesejáveis: 
  
