@@ -20,7 +20,7 @@
 
 ## Ciclo de vida dos Dados:
   <div align="center">
-      <img src="https://github.com/Gus-1003/DataScience/blob/main/Ciclo_de_Vida_Dados.png">
+      <img src="https://github.com/Gus-1003/DataScience/blob/main/Imagens/Ciclo_de_Vida_Dados.png">
   </div>
 
      * Passos Fundamentais em um Projetos:
