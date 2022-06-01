@@ -6,5 +6,5 @@
     - Vincular técnicas de apresentação de informações com a temática de "Visualização de Dados"
     - Tornar acessível para qualquer um o entendimento das informações e conclusões presentes em meus futuros projetos;
 
-## Fonte de Pesquisa:
-    - Livro : METODOLOGIA CIENTÍFICA para uso dos estudantes universitários - A. L. Cervo, P. A. Bervian - 156 pg.
+## Resumo do Livro:
+    - METODOLOGIA CIENTÍFICA para uso dos estudantes universitários - A. L. Cervo, P. A. Bervian - 156 pg.
