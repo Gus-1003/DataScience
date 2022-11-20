@@ -1,5 +1,3 @@
-https://colab.research.google.com/drive/13faQGKwRqGdyH-7UWEGRbqVe_pmHyGH7?usp=sharing#scrollTo=Zfz3-s2M0iAc
-
 # Repositorio - Ciência de Dados
       * Conceitos primordiais:
             - O que é ciência de dados:
